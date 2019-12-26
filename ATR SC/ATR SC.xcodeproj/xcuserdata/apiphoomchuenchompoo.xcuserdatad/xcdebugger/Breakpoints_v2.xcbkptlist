@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A92B1B27-6CA0-454E-9E12-E96937324074"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AC9B3DC-59DB-4590-9B69-9253BF43FD5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Downloads/User-Location/User-Location/MapScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AD8C957-A508-4472-B5E6-B9E77DE6457B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BadGuy/BadGuy/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65DA9246-5CB8-4E38-9F26-5A2A64913BF8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BadGuy/BadGuy/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D01B7C16-893C-4956-B09F-EACC77A1CBBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ATR SC/mapview2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ThirdViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D01B7C16-893C-4956-B09F-EACC77A1CBBD - 9475e593f7942bc0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ATR_SC.ThirdViewController.mapView2.getter : Swift.Optional&lt;__C.MKMapView&gt;"
+                  moduleName = "ATR SC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apiphoomchuenchompoo/Documents/ATR%20SC/ATR%20SC/mapview2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D01B7C16-893C-4956-B09F-EACC77A1CBBD - 5211efd8b5eed834"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ATR_SC.ThirdViewController.mapView2.setter : Swift.Optional&lt;__C.MKMapView&gt;"
+                  moduleName = "ATR SC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apiphoomchuenchompoo/Documents/ATR%20SC/ATR%20SC/mapview2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "D01B7C16-893C-4956-B09F-EACC77A1CBBD - d4a50955e087b0c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ATR_SC.ThirdViewController.mapView2.modify : Swift.Optional&lt;__C.MKMapView&gt;"
+                  moduleName = "ATR SC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apiphoomchuenchompoo/Documents/ATR%20SC/ATR%20SC/mapview2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "D01B7C16-893C-4956-B09F-EACC77A1CBBD - 4757636f279d02fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ATR_SC.ThirdViewController.mapView2.modify : Swift.Optional&lt;__C.MKMapView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ATR SC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apiphoomchuenchompoo/Documents/ATR%20SC/ATR%20SC/mapview2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "D01B7C16-893C-4956-B09F-EACC77A1CBBD - eba7fee7200c96b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ATR_SC.ThirdViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ATR_SC.ThirdViewController"
+                  moduleName = "ATR SC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apiphoomchuenchompoo/Documents/ATR%20SC/ATR%20SC/mapview2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "D01B7C16-893C-4956-B09F-EACC77A1CBBD - e56661f1db7e4942"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ATR_SC.ThirdViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ATR_SC.ThirdViewController&gt;"
+                  moduleName = "ATR SC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apiphoomchuenchompoo/Documents/ATR%20SC/ATR%20SC/mapview2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
